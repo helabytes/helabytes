@@ -1,4 +1,4 @@
-👋 Hi, I’m Moin :)
+👋 Hi, Moin here :)
 
 I am a PhD student at HKUST, working on disk-based indexes. You can check out some of my earlier spatial index implementations hosted on [SourceHut](https://sr.ht/~mhm).
 
